@@ -1,5 +1,5 @@
 # word_similariry 
-Simple mathematical comparison program between two strings based on cosine similarirty. 
+Between two strings comparison based on cosine similarirty. 
 
 # definition
 https://en.wikipedia.org/wiki/Cosine_similarity
